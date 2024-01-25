@@ -1,4 +1,4 @@
-I like making video games and mods for video games.
+I like making games.
 
 Programming languages I know:
 C++, 
