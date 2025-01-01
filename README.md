@@ -12,7 +12,7 @@ I like low level programming :D
 - The rest of them
 
 ## Frameworks i know:
+- Godot
 - Unity (godot is better)
-- Godot (this is better)
 
 -Contact Email: unfinishedbusiness632@gmail.com
