@@ -11,6 +11,7 @@ I like low level programming :D
 
 ## Programming languages I want to learn:
 - Zig
+- Rust
 - The rest of them
 
 ## Frameworks i know:
