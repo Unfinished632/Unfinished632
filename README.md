@@ -2,12 +2,12 @@ I like low level programming :D
 
 ## Programming languages I know:
 - C/C++
-- C# 
+- C#
+- Javascript
+- GDScript
 
 ## Programming languages I kinda know:
 - Java
-- Javascript
-- GDScript
 
 ## Programming languages I want to learn:
 - Zig
