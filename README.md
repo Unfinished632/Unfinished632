@@ -5,13 +5,13 @@ I like low level programming :D
 - C#
 - Javascript
 - GDScript
-
-## Programming languages I kinda know:
 - Java
+
+## Programming languages I'm learning:
+- Rust
 
 ## Programming languages I want to learn:
 - Zig
-- Rust
 - Haskell
 
 ## Frameworks i know:
