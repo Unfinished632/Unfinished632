@@ -6,6 +6,7 @@ I like low level programming :D
 - Javascript
 - GDScript
 - Java
+- Dart
 
 ## Programming languages I'm learning:
 - Rust
@@ -21,5 +22,6 @@ I like low level programming :D
 - SDL
 - GLFW
 - Bootstrap
+- Flutter
 
 -Contact Email: unfinishedbusiness632@gmail.com
