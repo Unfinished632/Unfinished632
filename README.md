@@ -21,7 +21,6 @@ I like low level programming :D
 - Raylib
 - SDL
 - GLFW
-- Bootstrap
 - Flutter
 
 -Contact Email: unfinishedbusiness632@gmail.com
