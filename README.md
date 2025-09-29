@@ -18,9 +18,6 @@ I like low level programming :D
 ## Frameworks i know:
 - Godot
 - Unity (godot is better)
-- Raylib
-- SDL
-- GLFW
 - Flutter
 
 -Contact Email: unfinishedbusiness632@gmail.com
