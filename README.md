@@ -15,9 +15,13 @@ I like low level programming :D
 - Zig
 - Haskell
 
-## Frameworks i know:
+## Frameworks I know:
 - Godot
 - Unity (godot is better)
 - Flutter
+- Windows Forms
+
+## Frameworks I'm learning:
+- React
 
 -Contact Email: unfinishedbusiness632@gmail.com
