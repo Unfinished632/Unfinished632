@@ -19,7 +19,7 @@ I like low level programming :D
 - Godot
 - Unity (godot is better)
 - Flutter
-- Windows Forms
+- Windows Forms (yikes)
 
 ## Frameworks I'm learning:
 - React
