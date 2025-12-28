@@ -25,3 +25,7 @@ I like low level programming :D
 - React
 
 -Contact Email: unfinishedbusiness632@gmail.com
+
+# I've migrated to Codeberg
+I will no longer be using GitHub for personal projects. I will only be using GitHub to contribute to projects that are only hosted on GitHub.
+[My Codeberg page](https://codeberg.org/Unfinished632)
