@@ -6,6 +6,7 @@ I like low level programming :D
 - Javascript
 - GDScript
 - Java
+- Kotlin
 - Dart
 
 ## Programming languages I'm learning:
