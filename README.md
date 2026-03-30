@@ -11,6 +11,7 @@ I like low level programming :D
 
 ## Programming languages I'm learning:
 - Rust
+- Ruby
 
 ## Programming languages I want to learn:
 - Zig
@@ -21,6 +22,7 @@ I like low level programming :D
 - Unity (godot is better)
 - Flutter
 - Windows Forms (yikes)
+- Middleman
 
 ## Frameworks I'm learning:
 - React
