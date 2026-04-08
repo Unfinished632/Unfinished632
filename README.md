@@ -8,9 +8,9 @@ I like low level programming :D
 - Java
 - Kotlin
 - Dart
+- Rust
 
 ## Programming languages I'm learning:
-- Rust
 - Ruby
 
 ## Programming languages I want to learn:
