@@ -26,8 +26,8 @@ I like low level programming :D
 - Middleman
 - React
 
--Contact Email: unfinishedbusiness632@gmail.com
--Business Email: memiresen08@gmail.com
+- Contact Email: unfinishedbusiness632@gmail.com
+- Business Email: memiresen08@gmail.com
 
 # I've migrated to Codeberg
 I will no longer be using GitHub for personal projects. I will only be using GitHub to contribute to projects that are only hosted on GitHub.
