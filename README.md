@@ -3,7 +3,8 @@ I like low level programming :D
 ## Programming languages I know:
 - C/C++
 - C#
-- Javascript
+- JavaScript
+- TypeScript
 - GDScript
 - Java
 - Kotlin
@@ -23,11 +24,10 @@ I like low level programming :D
 - Flutter
 - Windows Forms (yikes)
 - Middleman
-
-## Frameworks I'm learning:
 - React
 
 -Contact Email: unfinishedbusiness632@gmail.com
+-Business Email: memiresen08@gmail.com
 
 # I've migrated to Codeberg
 I will no longer be using GitHub for personal projects. I will only be using GitHub to contribute to projects that are only hosted on GitHub.
