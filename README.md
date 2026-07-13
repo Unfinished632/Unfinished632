@@ -25,6 +25,8 @@ I like low level programming :D
 - Windows Forms (yikes)
 - Middleman
 - React
+- PaperMC
+- Bukkit
 
 ## Contact
 - Personal: unfinishedbusiness632@gmail.com
